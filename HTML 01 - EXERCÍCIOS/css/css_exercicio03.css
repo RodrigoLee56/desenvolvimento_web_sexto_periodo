@@ -1,0 +1,53 @@
+body{
+    background-color: whitesmoke;
+}
+table{
+    width: 600px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    box-shadow: 0px 15px 5px gray;
+    
+}
+
+.titleTable{
+    background-color:#0D5188;
+    color: #ffffff;
+    padding: 5px;
+}
+
+th{
+    background-color: #66C5E3;
+    font-weight: bold;
+    padding: 2.5px;
+}
+
+.titleCity{
+    text-align: justify;
+}
+
+.utilCity{
+    width: 15%;
+}
+
+td{
+    background-color: #C7E7F3;
+    text-align: center;
+    padding: 2.5px;
+}
+
+.cityName{
+    color: #0D5188;
+    font-weight: bold;
+    text-align: justify;
+    width: 15%;
+}
+
+.idCity{
+    background-color: silver;
+    width: 10%;
+}
+
+.pop{
+    width: 10%;
+}

@@ -1,0 +1,17 @@
+body{
+    font-size: 10pt;
+}
+
+h1{
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+
+}
+
+h1, h2, h3 {
+    color: red;
+}
+
+p{
+    text-align: justify;
+    padding: 0 5px;
+}
