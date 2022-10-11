@@ -1,0 +1,56 @@
+table{
+    width: 960px;
+    margin: 0 auto;
+    box-shadow: 0px 5px 5px gray;
+}
+
+thead, tbody, tfoot{
+    width:100%;
+    border: 1px solid gray;
+}
+
+.columnTime{
+    width: 20%;
+}
+
+.wCell{
+    width: 60px;
+}
+
+th, td{
+    border: 1px solid gray;
+}
+
+
+.dtr{
+    width: 100%;
+    background-color: brown;
+    display: flex;
+}
+
+.dtr td{
+    align-items: center;
+    width: 250px;
+}
+
+.dimension{
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+#darkblue{
+    background-color: darkblue;
+}
+
+#blue{
+    background-color: cyan;
+}
+
+#orange{
+    background-color: orange;
+}
+
+#red{
+    background-color: tomato;
+}
